@@ -1,3 +1,3 @@
 # Flutter_basics
-this repo contains multiple basic flutter projects
+this repo contains basic flutter projects
 
