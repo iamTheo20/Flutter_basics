@@ -3,7 +3,7 @@
 import 'ProfilePage.dart';
 import 'ExercisePage.dart';
 import 'HistoryPage.dart';
-import 'WorkoutPage.dart';
+import 'package:app/Workout/WorkoutPage.dart';
 import 'MeasurePage.dart';
 import 'package:flutter/material.dart';
 
